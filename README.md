@@ -7,7 +7,7 @@ install the dependencies with <br> `npm install` <br>
 then start the server with either <br> `npm start` or `npm run dev`
 
 # Running tests
-`npm run test`
+Start the server with `npm run dev` in a terminal and then run `npm run test` in another terminal.
 
 # Database 
 The Database used here is a Postgres instance on Supabase. It contains only one table `paris_pollution` with the following definition:
